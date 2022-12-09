@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://start-assets/ui_theme.tres" type="Theme" id=1]
+
+[node name="title" type="Label"]
+anchor_left = 0.5
+anchor_right = 0.5
+margin_left = -51.5
+margin_right = 51.5
+margin_bottom = 103.0
+theme = ExtResource( 1 )
+text = "Title
+"
+__meta__ = {
+"_edit_use_anchors_": false
+}
